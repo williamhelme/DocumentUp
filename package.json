@@ -17,7 +17,7 @@
   },
   "filename": "documentup.min.js",
   "dependencies": {
-    "express":        "2.5.1",
+    "express":        "4.17.1",
     "stylus":         "~0.19.2",
     "nib":            "~0.3.0",
     "request":        "~2.9.153",

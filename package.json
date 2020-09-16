@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "uglify-js":     "1.2.5",
-    "growl":         "~1.2.0",
+    "growl":         "~1.10.5",
     "mocha":         "~1.0.0",
     "chai":          "~1.1.0",
     "replay":        "~1.5.2",
